@@ -1,0 +1,11 @@
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\bin\Debug\CRUDBASICO.exe.config
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\bin\Debug\CRUDBASICO.exe
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\bin\Debug\CRUDBASICO.pdb
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\obj\Debug\CRUDBASICO.csproj.AssemblyReference.cache
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\obj\Debug\CRUDBASICO.csproj.SuggestedBindingRedirects.cache
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\obj\Debug\CRUDBASICO.frm_cadastro.resources
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\obj\Debug\CRUDBASICO.Properties.Resources.resources
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\obj\Debug\CRUDBASICO.csproj.GenerateResource.cache
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\obj\Debug\CRUDBASICO.csproj.CoreCompileInputs.cache
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\obj\Debug\CRUDBASICO.exe
+F:\_estudo\automoveis\CRUDBASICO\CRUDBASICO\obj\Debug\CRUDBASICO.pdb
